@@ -1,0 +1,2 @@
+1. Huffman Coding and Decoding
+The first step in this project is to develop a program that generates Huffman codes. For this project, you need to evaluate which of the following priority queue structures gives best performance: Binary Heap, 4-way cache optimized heap and Pairing Heap. The secomd step is to decode the file and see if the decoding matches or not. This was a programing project done under Dr. Sartaj Sahni at University of Florida under course name Advanced Data Structures.
